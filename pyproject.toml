@@ -5,8 +5,11 @@ description = "Add your description here"
 requires-python = ">=3.11"
 dependencies = [
     "aiogram>=3.26.0",
+    "anthropic>=0.102.0",
     "groq>=1.1.2",
+    "matplotlib>=3.10.9",
     "openai>=2.30.0",
+    "openpyxl>=3.1.5",
     "pandas>=3.0.2",
     "python-dotenv>=1.2.2",
 ]
